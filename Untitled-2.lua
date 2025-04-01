@@ -289,15 +289,15 @@ local library = {
         string    = {}
     },
     images = {
-        ["colorsat2"] = (""),
-        ["colortrans"] = syn.crypt.base64.decode(""),
-        ["colorsat1"] = syn.crypt.base64.decode(""),
-        ["arrow_down"] = syn.crypt.base64.decode(""),
-        ["arrow_up"] = syn.crypt.base64.decode(""),
-        ["gradientp90"] = syn.crypt.base64.decode(""),
-        ["gradientn90"] = syn.crypt.base64.decode(""),
-        ["gradientp45"] = syn.crypt.base64.decode(""),
-        ["colorhue"] = syn.crypt.base64.decode("")
+        ["colorsat2"] = "",
+        ["colortrans"] = "",
+        ["colorsat1"] = "",
+        ["arrow_down"] = "",
+        ["arrow_up"] = "",
+        ["gradientp90"] = "",
+        ["gradientn90"] = "",
+        ["gradientp45"] = "",
+        ["colorhue"] = ""
     }
 }
 
